@@ -8,4 +8,4 @@
 
 ### 其他
 
-## [主站](https://hakureitree.github.io/Hakurei-Workshop/)
+## [主站](https://hakureitree.github.io/Hakurei-Jinja/)
